@@ -1,0 +1,76 @@
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.exe
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.deps.json
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.runtimeconfig.json
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.runtimeconfig.dev.json
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.pdb
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.csprojAssemblyReference.cache
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.Form1.resources
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.csproj.GenerateResource.cache
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.AssemblyInfoInputs.cache
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.AssemblyInfo.cs
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.pdb
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.genruntimeconfig.cache
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\niyaz\source\repos\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.csproj.CopyComplete
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.exe
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.deps.json
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.runtimeconfig.json
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.runtimeconfig.dev.json
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\mailgönder.pdb
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.csprojAssemblyReference.cache
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.Form1.resources
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.csproj.GenerateResource.cache
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.AssemblyInfoInputs.cache
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.AssemblyInfo.cs
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.csproj.CoreCompileInputs.cache
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.csproj.CopyComplete
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.dll
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.pdb
+C:\Users\niyazi\Desktop\masa\Yeni klasör\mailgönder\mailgönder\obj\Debug\netcoreapp3.1\mailgönder.genruntimeconfig.cache
